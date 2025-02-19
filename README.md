@@ -9,7 +9,7 @@
 
 ### About Me
 
-🎓 I'm currently a student studying Games Technology a UWE Brisol!
+🎓 I'm currently a student studying Games Technology a UWE Bristol!
 
 🖥️ I like programming games, as well as tinkering with electronics projects
 
