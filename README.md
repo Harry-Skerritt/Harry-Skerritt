@@ -20,8 +20,8 @@
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harry-Skerritt&show_icons=true&theme=dracula&hide=issues&line_height=34"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Skerritt&layout=donut&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harry-Skerritt&show_icons=true&theme=dracula&hide=issues&line_height=34&cache_seconds=21600"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-Skerritt&layout=donut&theme=dracula&cache_seconds=21600"/>
 </p>
 
 ##
